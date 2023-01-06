@@ -12,9 +12,9 @@ After a successful login, it dumps the all the databases, specifically the users
 
 ## 🖥️ Features:
 ```bash
-- Dumps MYSQL databases (CNC login credentials).
-- Kills Mana V4.1 sources.
-- Stores results into a json file (database.json).
+• Dumps MYSQL databases (CNC login credentials).
+• Kills Mana V4.1 sources.
+• Stores results into a json file (database.json).
 ```
 
 ## 🔌 How To Install:
