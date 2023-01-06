@@ -10,7 +10,7 @@ if __name__ == '__main__' :
     print(f'\x1bc{BANNER}')
     
     mirai_scraper: object = Scraper()
-    print(f'{Colors.WHITE}Scraped {Colors.LIGHTPINK}{len(mirai_scraper.list_ips)} {Colors.WHITE}IP address(s)')
+    print(f'{Colors.WHITE}Scraped {Colors.LIGHTPINK}{len(mirai_scraper.list_ips)} {Colors.WHITE}IP Addresses')
     bruter = Bruter(mirai_scraper.list_ips)
     
     start: int = time()
