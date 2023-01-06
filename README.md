@@ -5,6 +5,13 @@
 ![Screenshot](Screenshot.png)
 
 
+## Features:
+```bash
+1. Dumps MYSQL database's (CNC login credentials).
+2. Kills Mana V4.1 sources.
+3. Stores results into a json file.
+```
+
 ## 🔌 How To Install:
 ```bash
 1. git clone https://github.com/PyLore/Inori-Mirai-CNC-Scraper-V.1
