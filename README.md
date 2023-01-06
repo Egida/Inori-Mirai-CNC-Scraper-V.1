@@ -9,7 +9,7 @@
 ```bash
 - Dumps MYSQL databases (CNC login credentials).
 - Kills Mana V4.1 sources.
-- Stores results into a json file.
+- Stores results into a json file (database.json).
 ```
 
 ## 🔌 How To Install:
