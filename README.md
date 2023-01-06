@@ -7,7 +7,7 @@
 
 ## Features:
 ```bash
-1. Dumps MYSQL database's (CNC login credentials).
+1. Dumps MYSQL databases (CNC login credentials).
 2. Kills Mana V4.1 sources.
 3. Stores results into a json file.
 ```
