@@ -3,11 +3,9 @@
 ### A working Mirai CNC scraper written in python.
 
 ## ❓ How does it work?:
-```bash
 Scrapes Mirai CNC servers off URLHaus. Then checks each server for a running MYSQL server on port 3306. 
 Once it finds a running server it attempts to login the MYSQL server using default credentials.
 After a successful login, it dumps the all the databases, specifically the users table in each database found. (CNC Logins)
-```
 
 ![Screenshot](Screenshot.png)
 
