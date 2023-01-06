@@ -5,7 +5,7 @@
 ![Screenshot](Screenshot.png)
 
 
-## Features:
+## 🖥️ Features:
 ```bash
 - Dumps MYSQL databases (CNC login credentials).
 - Kills Mana V4.1 sources.
